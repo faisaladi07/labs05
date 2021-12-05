@@ -59,9 +59,9 @@ print("="*30)
 print(kontak.items())
 print("="*30)
 ```
-* Berikut ini adalah haasil programnya
+* Berikut ini adalah hasil programnya
 
-![gambar1](labs05/hasil1.png)
+![gambar1](ss/hasil1.png)
 
 
 ## Tugas praktikum
@@ -153,7 +153,7 @@ while True:
 ```
 * Berikutflowchartnya
 
-![gambar2](labs05/flot.png)
+![gambar2](ss/flot.png)
 
 
 * Penjelasan source code sebagai berikut :
@@ -246,6 +246,6 @@ elif c .lower() == 'e':
 ```
 * Berikut hasil program
 
-![gambar3](labs05/pt.png)
+![gambar3](ss/pt.png)
 
-![gambar4](labs05/pt2.png)
+![gambar4](ss/pt2.png)
