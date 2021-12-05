@@ -1,9 +1,3 @@
-# labs05
-## Latihan 1
-### Membuat daftar kontak dengan mengguakan dictionary pada pyhton
-* Berikut source code program latihan 1 
-
-```python
 daftarkontak = {"nama": "nomor telepon"}
 kontak = {'faiz': '088834567', 'adit': '085834986'}
 
@@ -58,7 +52,3 @@ kontak.pop('adit')
 print("="*30)
 print(kontak.items())
 print("="*30)
-```
-* Berikut ini adalah haasil programnya
-
-![gambar1](labs05/hasil.jpeg)
