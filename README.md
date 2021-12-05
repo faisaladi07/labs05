@@ -60,9 +60,9 @@ print(kontak.items())
 print("="*30)
 ```
 * Berikut ini adalah haasil programnya
-```
+
 ![gambar1](labs05/hasil1.png)
-```
+
 
 ## Tugas praktikum
 <p> Dibawah ini adalah program sederhana untuk membuat daftar nilai mahasiswa dengan menggunakan kamus, dan menampilkan pilihan menu tambah, ubah, cari, hapus, dan lihat
@@ -152,9 +152,9 @@ while True:
         print("Pilih menu yang tersedia: ")
 ```
 * Berikutflowchartnya
-```
+
 ![gambar2](labs05/flot.png)
-```
+
 
 * Penjelasan source code sebagai berikut :
 - dibawah ini adalah kamus yang kosong , untuk menampung kamus dengan touple.
@@ -245,7 +245,7 @@ elif c .lower() == 'e':
         break
 ```
 * Berikut hasil program
-```
+
 ![gambar3](labs05/pt.png)
 
 ![gambar4](labs05/pt2.png)
